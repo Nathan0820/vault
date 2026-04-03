@@ -7,4 +7,4 @@ Notes on algorithm techniques, complexity, and problem classification.
 
 ## 📖 Lectures
 
-- [[L9]] — Reductions & Intractability
+- [[CS3230/L9|L9 — Reductions & Intractability]]
