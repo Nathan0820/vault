@@ -7,12 +7,16 @@ This is my collection of notes, thoughts, and ideas. I use this space to learn i
 
 Feel free to explore and see how my ideas connect and evolve over time.
 
-Below is a graph view of all my notes.
-
+### Recently updated
 <%
-const graph = await render(
-  `graph`,
+const recent = await render(
+  `RecentNotes`,
+  {
+    limit: 5,
+    showTags: false,
+    linkToMore: "tags/note"
+  }
 )
 %>
 
-<%= graph %>
+<%= recent %>
