@@ -7,4 +7,5 @@ Notes on algorithm techniques, complexity, and problem classification.
 
 ## 📖 Lectures
 
+- - [[/vault/CS3230/L8|L8 - Amortized Analysis]]
 - [[/vault/CS3230/L9|L9 — Reductions & Intractability]]
