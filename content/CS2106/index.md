@@ -6,7 +6,9 @@ publish: true
 Notes on process management, memory, and system fundamentals.
 
 ## 📖 Lectures
-
+- [[/vault/CS2106/L3|L3 — Process Scheduling]]
+- [[/vault/CS2106/L4|L4 — Inter-Process Communication (IPC)]]
+- [[/vault/CS2106/L5|L5 — Process Alternative — Threads]]
 - [[/vault/CS2106/L6|L6 — Process Synchronization]]
 - [[/vault/CS2106/L7|L7 — Memory Management & Memory Abstraction]]
 - [[/vault/CS2106/L8|L8 — Disjoint Memory Schemes]]
