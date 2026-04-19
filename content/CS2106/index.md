@@ -17,3 +17,4 @@ Notes on process management, memory, and system fundamentals.
 - [[/vault/CS2106/L9|L9 — Virtual Memory Management]]
 - [[/vault/CS2106/L10|L10 — File System Introduction]]
 - [[/vault/CS2106/L11|L11 — File System Implementation]]
+- [[/vault/CS2106/L12|L12 — File System Case Studies]]
